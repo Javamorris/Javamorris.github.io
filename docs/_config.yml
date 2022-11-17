@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Quantum Graph Traversal
+email: mswann11@students.kennesaw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Quantum computing has completely changed the computing paradigm. These special computers leverage the unique properties of quantum mechanics to solve problems that a classical computer cannot solve in polynomial time. Quantum mechanics such as superposition and entanglement are used to boost computational power exponentially in many problems. Many traditionally NP-complete problems, such as breaking the encryption of public-private key systems, are solvable with quantum computing in polynomial time. In this project, we will review quantum computing basics using real quantum computers and build on those basics to solve a subset of a graph optimization problems using both existing and new methodologies. Our research focuses on a subset of graphs named “Cascading Graphs” and finding the “best” path based on a predetermined metric. To solve this problem, we plan to use a mixed approach for finding a mathematical algorithm and creating an implementation of the algorithm in a quantum computer. This mixed approach will be based on a cycle consisting of trying a find a mathematically rigorous proof and testing different cases to help build an understanding of the problem, which will then be verified using a quantitative approach.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://javamorris.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Javamorris
+github_username:  Javamorris
 
 # Build settings
 theme: minima
