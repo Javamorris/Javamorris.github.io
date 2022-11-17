@@ -1,5 +1,6 @@
-url: https://javamorris.github.io/
-baseurl: /Quantum
+domain: javamorris.github.io
+url: https://javamorris.github.io
+baseurl: 
 
 # Site settings
 title: Quantum Walks
