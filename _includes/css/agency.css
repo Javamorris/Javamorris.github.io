@@ -18,6 +18,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-base {
+    color: #{{ site.data.template.color.base }};
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
