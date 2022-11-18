@@ -1154,7 +1154,7 @@ body {
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 1.42857143;
-    color:#{{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.secondary }};
     background-color:#ffffff
 }
 
@@ -1168,20 +1168,14 @@ textarea {
 }
 
 a {
-    color:#{{ site.data.template.color.primary }
-}
-
-;
-text-decoration:none
+    color:#{{ site.data.template.color.primary }};
+    text-decoration:none
 }
 
 a:hover,
 a:focus {
-    color:#{{ site.data.template.color.primary }
-}
-
-;
-text-decoration:underline
+    color:#{{ site.data.template.color.primary }};
+    text-decoration:underline
 }
 
 a:focus {
