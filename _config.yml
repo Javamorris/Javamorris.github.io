@@ -13,8 +13,8 @@ people:
   pic: 1
   position: Project Manager
   social:
-    - title: email
-      url: swannm48@gmail.com
+    # - title: email
+    #   url: swannm48@gmail.com
     - title: linkedin
       url: https://www.linkedin.com/in/michael-swann/
     - title: github
@@ -24,8 +24,8 @@ people:
   pic: 2
   position: Software Developer & Mathematical Analyst
   social:
-    - title: email
-      url: ethanhunt2125@gmail.com
+    # - title: email
+    #   url: ethanhunt2125@gmail.com
     - title: linkedin
       url: https://www.linkedin.com/in/ethan-hunt-773599255/ 
     - title: github
