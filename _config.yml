@@ -3,63 +3,43 @@ url: https://javamorris.github.io
 baseurl: 
 
 # Site settings
-title: Quantum Walks
+title: UR-302
 email: swannm48@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+description: "Quantum computing has completely changed the computing paradigm. These special computers leverage the unique properties of quantum mechanics to solve problems that a classical computer cannot solve in polynomial time. Quantum mechanics such as superposition and entanglement are used to boost computational power exponentially in many problems . Many traditionally NP-complete problems, such as breaking the encryption of public-private key systems, are solvable with quantum computing in polynomial time. In this project, we will review quantum computing basics using real quantum computers and build on those basics to solve a subset of a graph optimization problems using both existing and new methodologies. Our research focuses on a subset of graphs named “Cascading Graphs” and finding the “best” path based on a predetermined metric. To solve this problem, we plan to use a mixed approach for finding a mathematical algorithm and creating an implementation of the algorithm in a quantum computer. This mixed approach will be based on a cycle consisting of trying a find a mathematically rigorous proof and testing different cases to help build an understanding of the problem, which will then be verified using a quantitative approach ."
 
 # Team names, titles and social links
 people:
 - name: Michael Swann
   pic: 1
-  position: Team Lead
+  position: Project Manager
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: email
+      url: swannm48@gmail.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/michael-swann/
+    - title: github
+      url: https://github.com/Javamorris
 
 - name: Ethan Hunt
   pic: 2
-  position: Head Programmer
+  position: Software Developer & Mathematical Analyst
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: email
+      url: ethanhunt2125@gmail.com
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.linkedin.com/in/ethan-hunt-773599255/ 
+    - title: github
+      url: https://github.com/EthanHunt2125 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/EthanHunt2125/Quantum-Algorithm
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1100 South Marietta Pkwy SE
+  - line: Marietta, GA 30060
 
 # Build settings
 markdown: kramdown
