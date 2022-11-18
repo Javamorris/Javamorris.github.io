@@ -1154,11 +1154,8 @@ body {
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 1.42857143;
-    color:#{{ site.data.template.color.secondary }
-}
-
-;
-background-color:#ffffff
+    color:#{{ site.data.template.color.secondary }};
+    background-color:#ffffff
 }
 
 input,
