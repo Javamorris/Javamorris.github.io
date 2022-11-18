@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+
+    <body id="page-top" class="index">
+
+    {% include header.html %}
+    {% include abstract.html %}
+    {% include team.html %}
+    {% include research.html %}
+
+    </body>
+</html>
