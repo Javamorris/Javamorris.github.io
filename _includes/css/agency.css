@@ -5,7 +5,7 @@
  */
 
 .centerdiv {
-    display: inline-block
+    display: inline-flex
 }
 
 body {
