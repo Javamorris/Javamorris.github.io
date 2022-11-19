@@ -5,6 +5,7 @@
  */
 
 .centerdiv {
+    padding: 0 auto;
     display: flex;
     margin: 0 auto
 }
