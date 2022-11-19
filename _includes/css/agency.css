@@ -4,6 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.centerdiv {
+    margin: 0 auto
+}
 body {
     overflow-x: hidden;
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
