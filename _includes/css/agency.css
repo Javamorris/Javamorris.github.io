@@ -5,6 +5,7 @@
  */
 
 .centerdiv {
+    display: flex;
     margin: 0 auto
 }
 body {
