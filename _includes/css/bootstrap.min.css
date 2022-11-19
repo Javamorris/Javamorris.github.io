@@ -5179,10 +5179,7 @@ background-color:transparent
 
     .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,
     .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
-        color:#{{ site.data.template.color.primary }
-    }
-
-    ;
+        color:#{{ site.data.template.color.primary }};
     background-color:transparent
 }
 
@@ -5308,10 +5305,7 @@ background-color:transparent
 
     .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover,
     .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:focus {
-        color:#{{ site.data.template.color.secondary }
-    }
-
-    ;
+        color:#{{ site.data.template.color.secondary }};
     background-color:transparent
 }
 
