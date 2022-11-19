@@ -11,10 +11,8 @@ description: "Quantum computing has completely changed the computing paradigm. T
 people:
 - name: Michael Swann
   pic: 1
-  position: Project Manager
+  position: Project Manager & Software Developer
   social:
-    - title: email
-      url: swannm48@gmail.com
     - title: linkedin
       url: https://www.linkedin.com/in/michael-swann/
     - title: github
@@ -22,10 +20,8 @@ people:
 
 - name: Ethan Hunt
   pic: 2
-  position: Software Developer & Mathematical Analyst
+  position: Mathematical Analyst & Software Developer
   social:
-    - title: email
-      url: ethanhunt2125@gmail.com
     - title: linkedin
       url: https://www.linkedin.com/in/ethan-hunt-773599255/ 
     - title: github

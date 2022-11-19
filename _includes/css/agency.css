@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -18,8 +18,12 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-base {
+    color: #{{ site.data.template.color.base }};
+}
+
 p {
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.75;
 }
 
@@ -176,7 +180,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Bree Serif","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
