@@ -5,10 +5,9 @@
  */
 
 .centerdiv {
-    padding: 0 100px;
-    display: flex;
-    margin: 0 auto
+    display: inline-block
 }
+
 body {
     overflow-x: hidden;
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
